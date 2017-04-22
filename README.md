@@ -1,4 +1,7 @@
-# api documentation for  [grunt-phpcs (v0.4.0)](https://github.com/SaschaGalley/grunt-phpcs)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-phpcs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-phpcs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-phpcs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-phpcs)
+# npmdoc-grunt-phpcs
+
+#### api documentation for  [grunt-phpcs (v0.4.0)](https://github.com/SaschaGalley/grunt-phpcs)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-phpcs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-phpcs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-phpcs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-phpcs)
+
 #### Grunt plugin for running PHP Code Sniffer.
 
 [![NPM](https://nodei.co/npm/grunt-phpcs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-phpcs)
@@ -82,7 +85,8 @@
             },
             "pkgid": "grunt-phpcs@0.4.0"
         }
-    ]
+    ],
+    "bin": {}
 }
 ```
 
